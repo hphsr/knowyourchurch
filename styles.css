@@ -39,7 +39,8 @@ body{
 
   #content {
     background: white;
-    width: 800px;
+    width: 1000px;
+    text-size: 120%;
     margin: auto;
     border:1px double black;
     text align: center;
