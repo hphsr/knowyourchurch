@@ -16,20 +16,15 @@ body{
   margin-right: auto;
   
 }
-#footer{
-  bottom: 0;
-  position: fixed;
-  width: 100%;
-}
 
 #footer {
-  background: purple;
+  background: white;
   height: 100px;
   margin: auto;
   width: 400px;
   text-align:center;
   padding:10px;
-  color:#ffffff;
+  color:purple;
 }
   .img-beautifulsky {
     width: 300px;
