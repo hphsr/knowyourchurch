@@ -14,6 +14,7 @@ body{
   width: 800px;
   margin-left: auto;
   margin-right: auto;
+  p.solid {outline-style: solid; color: black;}
 }
 
 #footer{
