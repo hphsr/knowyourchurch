@@ -39,10 +39,11 @@ body{
 
   #content {
     background: white;
-    width: 1000px;
-    text-size: 120%;
+    width: 1100px;
+    text-size: 150%;
     margin: auto;
-    border:1px double black;
+    border:5px double black;
+    padding: 10px;
     text align: center;
     color: black;
   }
