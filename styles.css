@@ -16,7 +16,11 @@ body{
   margin-right: auto;
 }
 
-#footer {
-    font size 110%
-    text-align: center;
-}  
+#footer{
+    font size: 110%
+    background-color: #66CCFF0;
+    width: 500px;
+    
+
+}
+    
