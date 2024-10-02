@@ -12,6 +12,8 @@ body{
   color: purple;
   background-color: white;
   width: 800px;
+  outline-style: solidcolor;
+  outline-color: black;
   margin-left: auto;
   margin-right: auto;
   
@@ -19,7 +21,7 @@ body{
 
 #footer {
   background: white;
-  height: 50px;
+  height: 40px;
   margin: auto;
   width: 400px;
   text-align:center;
