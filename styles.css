@@ -14,13 +14,27 @@ body{
   width: 800px;
   margin-left: auto;
   margin-right: auto;
-  p.solid {outline-style: solid; color: black;}
+  
 }
 
 #footer{
-    font size: 110%
-    background-color: #66CCFF0;
-    width: 500px;
+  .footerWrap {
+    width:100%;
+    position:fixed;
+    bottom: 0px;
+}
+.footer {
+    width:400px;
+    margin:auto;
+}
+.footerContent {
+    float:left;
+    width:100%;
+    background-color:#555;
+    padding:20px 0;
+}
+.footer p {float:left; width:100%; text-align:center; }
+
 }
 
   .img-beautifulsky {
