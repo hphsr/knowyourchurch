@@ -36,3 +36,12 @@ body{
     display: block;
     margin: auto;
   }
+
+  #content {
+    background: white;
+    width: 800px;
+    margin: auto;
+    border:1px double black;
+    text align: center;
+    color: black;
+  }
