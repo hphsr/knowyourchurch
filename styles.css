@@ -19,11 +19,11 @@ body{
 
 #footer {
   background: white;
-  height: 100px;
+  height: 50px;
   margin: auto;
   width: 400px;
   text-align:center;
-  padding:10px;
+  padding:50px;
   color:purple;
 }
   .img-beautifulsky {
