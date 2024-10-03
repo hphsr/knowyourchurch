@@ -48,28 +48,4 @@ body{
     color: black;
   }
 
-  .navbar ul{
-    list-style: none;
-    background-color: darkslategrey;
-    padding: 0px;
-    margin: 0px;
-    overflow: hidden;
-}
-
-.navbar a{
-  color: white;
-  text-decoration: none;
-  padding: 15px;
-  display: inline-block;
-  text-align: center;
-}
-
-.navbar align-self: hover;{
-  background-color: grey;
-
-}
-
-.navbar li{
-  float: left;
-  display: inline-block;
-}
+  
