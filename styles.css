@@ -19,7 +19,7 @@ body{
     align-items: center;
     padding: 10px 5%;
     margin: auto;
-    font-size: 125%;
+    font-size: 140%;
   }
   
 .container {
@@ -62,7 +62,7 @@ button {
   padding: 9px 25px;
   background-color: rgba(0,136,169,1);
   border: none;
-  border-radius: 50px;
+  border-radius: 40px;
   cursor: pointer;
   transition: all 0.3s ease 0s;
 }
