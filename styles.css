@@ -41,14 +41,10 @@ nav {
 }
 
 .nav__links {
-  display: flex;
-  align-items: center;
   list-style: none;
 }
 
 .nav__links li{
-  display: flex;
-  align-items: center;
   display: inline-block;
   padding: 0 20px;
 }
@@ -61,8 +57,6 @@ nav {
 }
 
 button {
-  display: flex;
-  align-items: center;
   padding: 9px 25px;
   background-color: rgba(0,136,169,1);
   border: none;
