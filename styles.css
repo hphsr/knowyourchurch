@@ -58,6 +58,7 @@ nav {
 }
 
 button {
+  display: flex;
   margin: auto;
   padding: 7px 20px;
   background-color: rgba(0,136,169,1);
