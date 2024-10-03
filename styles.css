@@ -8,7 +8,7 @@ body{
 #header{
   font-size: 200%;
   background-color: #66CCFF0;
-  
+  text align:center;
   display: flex;
   align-items: center;
   color: purple;
