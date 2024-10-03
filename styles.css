@@ -3,12 +3,7 @@
 body{
     background-color: #EEE;
 }
- *{
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-  background-color: #24252a;
- }
+ 
 
  li, a, button {
   font-family: "Titillium Web", sans-serif;
@@ -24,8 +19,6 @@ body{
     align-items: center;
     padding: 30px 10%;
   }
-
-
 
 
 #footer {
