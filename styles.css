@@ -37,6 +37,9 @@ h1 {
   
 }
 
+.list 1 {
+  display: flex;
+}
 nav {
   flex:1;
 }
