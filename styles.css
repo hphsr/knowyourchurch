@@ -32,6 +32,7 @@ body{
 
 h1 {
   flex: 1;
+  margin: auto;
   font: Montserrat;
   
 }
