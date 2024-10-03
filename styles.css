@@ -90,6 +90,7 @@ button:hover {
     width: 300px;
     display: block;
     margin: auto;
+    border: solid black 3px;
   }
 
   #content {
