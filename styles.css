@@ -5,9 +5,13 @@ body{
 }
  
 .img-logo {
+  
   width: 30%;
   display: flex;
   margin: auto;
+  position: absolute; 
+  top: 0; 
+  left: 0; 
   
 }
 
