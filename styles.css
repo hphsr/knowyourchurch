@@ -71,8 +71,5 @@ body{
 
 .navbar li{
   float: left;
-  display: inline;
+  display: inline-block;
 }
- .navdiv{
-  display: flex; align-items: center; justify-content: space-between;
- }
