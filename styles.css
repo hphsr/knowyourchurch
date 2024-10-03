@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@100;400;500&display=swap');
 
 body{
     background-color: #EEE;
@@ -6,13 +6,19 @@ body{
  
 
  li, a, button {
-  font-family: "Titillium Web", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 500;
-  font-size: 16px;
+  font-size: 20px;
   color: rgb(22, 0, 0);
   text-decoration: none;
   }
 
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+  }
 .nav__links {
   list-style: none;
 }
@@ -43,12 +49,7 @@ button:hover {
 }
 
 
-  header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 30px 10%;
-  }
+
 
 
 #footer {
