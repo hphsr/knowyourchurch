@@ -19,6 +19,15 @@ body{
     align-items: center;
     padding: 30px 10%;
   }
+  
+h1 {
+  flex: 1;
+}
+
+nav {
+  flex:1;
+}
+
 .nav__links {
   list-style: none;
 }
