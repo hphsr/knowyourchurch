@@ -4,6 +4,12 @@ body{
     background-color: #6ec02bc7;
 }
  
+logo {
+  width: 300px;
+  display: flex;
+  margin: auto;
+  
+}
 
  li, a, button {
   font-family: "Montserrat", sans-serif;
