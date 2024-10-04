@@ -69,7 +69,7 @@ nav {
 button {
   font-size: 20px;
   display: flex;
-  margin: auto;
+  margin: left;
   padding: 7px 20px;
   background-color: rgba(0,136,169,1);
   border: none;
