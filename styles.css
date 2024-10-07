@@ -124,6 +124,7 @@ button:hover {
     border:5px double black;
     padding: 10px;
     color: black;
+    text-wrap: nowrap;
   }
 
  
