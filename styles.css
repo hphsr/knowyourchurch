@@ -114,4 +114,17 @@ button:hover {
     text-align: center;
     color: black;
   }
+
+  #question {
+    display: flex;
+    background: white;
+    width: 1190px;
+    font-size: 150%;
+    margin: auto;
+    border:5px double black;
+    padding: 10px;
+    text-align: left;
+    color: black;
+  }
+ 
  
