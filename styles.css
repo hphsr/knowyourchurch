@@ -12,7 +12,7 @@ body{
   
 }
 
- li, a, button {
+  a, button {
   font-family: "Montserrat", sans-serif;
   font-weight: 500;
   font-size: 30px;
