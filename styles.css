@@ -129,4 +129,9 @@ button:hover {
     color: black;
   }
  
- 
+ p#whatdoes {
+font-size:20px;
+}
+p#list2 span {
+font-size:15px;
+}
