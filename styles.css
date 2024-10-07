@@ -116,20 +116,18 @@ button:hover {
   }
 
   #question {
-    display: flex;
     background: white;
-    width: 1190px;
+    width: 800px;
     height: 600px;
     margin: auto;
     border:5px double black;
     padding: 10px;
-    align-items: left;
     color: black;
   }
  
- p#whatdoes {
+#whatdoes {
 font-size:10px;
 }
-p#list2 span {
+#list2 span {
 font: size 10px;px;
 }
