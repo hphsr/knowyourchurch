@@ -2,7 +2,7 @@
 
 body{
     background-image: url(img/beautifulsky.img);
-    background-attachment: scroll;
+    background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
