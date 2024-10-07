@@ -119,7 +119,7 @@ button:hover {
     display: flex;
     background: white;
     width: auto;
-    font-size: 150%;
+    font-size: auto%;
     margin: auto;
     border:5px double black;
     padding: 10px;
