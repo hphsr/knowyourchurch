@@ -2,7 +2,7 @@
 
 body{
     background-image: url(img/beautifulsky.img);
-    background-attachment: fixed;
+    background-attachment: scroll;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -75,7 +75,7 @@ button {
   margin: left;
   padding: 7px 20px;
   background-color: rgba(0,136,169,1);
-  border: solid;
+  border: none;
   border-radius: 40px;
   cursor: pointer;
   transition: all 0.3s ease 0s;
@@ -90,8 +90,7 @@ button:hover {
 
 
 #footer {
-  
-  color: white;
+  background: white;
   height: 20px;
   margin: auto;
   width: 400px;
@@ -109,7 +108,7 @@ button:hover {
 
   #content {
     display: flex;
-    background: rgba(0,136,169,1;
+    background: white;
     width: auto;
     font-size: 25px;
     margin: auto;
@@ -121,7 +120,7 @@ button:hover {
   }
 
   #question {
-    background: rgba(0,136,169,1;
+    background: white;
     width: auto;
     margin: auto;
     font-size: 20px;
