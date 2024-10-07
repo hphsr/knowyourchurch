@@ -2,7 +2,7 @@
 
 body{
     background-image: url(img/beautifulsky.img);
-    background-atachment: fixed;
+    background-atachment: scroll;
 }
  
 .img-logo {
