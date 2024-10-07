@@ -75,7 +75,7 @@ button {
   margin: left;
   padding: 7px 20px;
   background-color: rgba(0,136,169,1);
-  border: none;
+  border: solid;
   border-radius: 40px;
   cursor: pointer;
   transition: all 0.3s ease 0s;
@@ -108,7 +108,7 @@ button:hover {
 
   #content {
     display: flex;
-    background: white;
+    background: rgba(0,136,169,1;
     width: auto;
     font-size: 25px;
     margin: auto;
@@ -120,7 +120,7 @@ button:hover {
   }
 
   #question {
-    background: white;
+    background: rgba(0,136,169,1;
     width: auto;
     margin: auto;
     font-size: 20px;
