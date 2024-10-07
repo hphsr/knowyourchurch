@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@100;400;500&display=swap');
 
 body{
-    background-image: url(img/beautifulsky.img)
-
+    background-image: url(img/beautifulsky.img);
+    background-atachment: fixed;
 }
  
 .img-logo {
