@@ -2,9 +2,11 @@
 
 body{
     background-image: url(img/beautifulsky.img);
-    background-atachment: scroll;
-}
- 
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+} 
 .img-logo {
   
   width: 25%;
