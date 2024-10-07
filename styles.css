@@ -118,8 +118,9 @@ button:hover {
   #question {
     display: flex;
     background: white;
-    width: auto;
-    font-size: auto%;
+    width: 500px;
+    height: auto;
+    font-size: 150%;
     margin: auto;
     border:5px double black;
     padding: 10px;
