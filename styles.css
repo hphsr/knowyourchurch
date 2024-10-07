@@ -118,15 +118,12 @@ button:hover {
   #question {
     background: white;
     width: 800px;
+    height: auto;
     margin: auto;
+    font-size: 40px;
     border:5px double black;
     padding: 10px;
     color: black;
   }
 
-  p#whatdoes {
-    font-size:20px;
-    }
-    p#whatdoes span {
-    font-size:15px;
-    }
+ 
