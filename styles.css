@@ -123,3 +123,10 @@ button:hover {
     padding: 10px;
     color: black;
   }
+
+  p#whatdoes {
+    font-size:20px;
+    }
+    p#whatdoes span {
+    font-size:15px;
+    }
