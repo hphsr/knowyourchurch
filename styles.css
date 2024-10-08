@@ -90,6 +90,7 @@ button:hover {
 
 
 #footer {
+  display: flex;
   background: white;
   height: 20px;
   margin: auto;
@@ -116,8 +117,8 @@ button:hover {
     padding: 10px;
     text-align: center;
     color: black;
-    
-  }
+    }
+
 
   #question {
     background: white;
