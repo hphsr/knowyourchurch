@@ -239,22 +239,22 @@ button:hover {
  .img-joelosteen {
   width: 200px;
   display: flex;
-  margin: auto;
-  display: inline-block
+  float: right;
   }
  
-  .text1 {
-    font-size: 18px;
-    
- 
-
-  }
+  .text1 {  
+    font-size: 22px;
+    justify-content: baseline;
+    }
 
  .img-kennethcopeland {
-  width: 150px;
+  width: 250px;
   display: flex;
-  margin: auto;
-  display: inline-block;
+  float:left;
+ }
+
+ .link-style {
+display: center;
  }
 
  .img-robertmorris {
