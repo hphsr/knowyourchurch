@@ -241,7 +241,7 @@ button:hover {
  }
 
  .img-joelosteen {
-  width: 200px;
+  width: 280px;
   display: flex;
   float: right;
   padding: 15px;
@@ -253,7 +253,7 @@ button:hover {
     }
 
  .img-kennethcopeland {
-  width: 250px;
+  width: 280px;
   display: flex;
   float:left;
   padding: 15px;
@@ -267,15 +267,15 @@ display: center;
  .img-robertmorris {
   width: 150px;
   display: flex;
-  margin: auto;
-  display: inline-block;
+  float: right;
+  padding: 15px;
  }
 
  .img-bennyhinn {
-  width: 150px;
+  width: 250px;
   display: flex;
-  margin: auto;
-  display: inline-block;
+  float: left;
+  padding: 15px;
  }
 
  .img-billjohnson{
