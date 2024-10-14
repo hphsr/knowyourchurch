@@ -274,7 +274,7 @@ display: center;
  .img-bennyhinn {
   width: 250px;
   display: flex;
-  float: left;
+  float: right;
   padding: 15px;
  }
 
