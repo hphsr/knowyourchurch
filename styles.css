@@ -15,14 +15,14 @@ body{
   
 }
 
-  a, button {
+ a, button {
   font-family: "Montserrat", sans-serif;
   font-weight: 500;
   font-size: 30px;
   color: rgb(22, 0, 0);
   text-decoration: none;
   }
-
+ 
   header {
     display: flex;
     justify-content: space-between;
@@ -222,6 +222,9 @@ button:hover {
     text-wrap: wrap;
   }
 
+  #aboutlink {
+    font-size: 20px;
+  }
 
  .smaller {
   font-size: 15px;
@@ -256,6 +259,7 @@ button:hover {
 
  .link-style {
 display: center;
+font: 20px;
  }
 
  .img-robertmorris {
