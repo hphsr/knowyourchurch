@@ -244,6 +244,7 @@ button:hover {
   width: 200px;
   display: flex;
   float: right;
+  padding: 15px;
   }
  
   .text1 {  
@@ -255,6 +256,7 @@ button:hover {
   width: 250px;
   display: flex;
   float:left;
+  padding: 15px;
  }
 
  .link-style {
